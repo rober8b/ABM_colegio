@@ -1,4 +1,4 @@
-ABM DE NOTAS 📖
+CRUD DE NOTAS 📖
 
 Programa hecho en VB.net con base de datos en Acces.📎
 
